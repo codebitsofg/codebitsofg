@@ -18,3 +18,11 @@ Most of my public work on GitHub is personal side projects that I've created bot
 
 One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool to save myself to prop drilling. I've tried to follow a very clean design and used styled components to style and give some life to the project.
 
+## 🎮 [A HEIC to JPEG Converter](https://helpful-sprite-b89435.netlify.app/)
+
+<p align="center">
+ <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/07bfab1f-4b00-46c7-bf04-f58e5378b680" width="600"></a>
+</p>
+
+The app is a fully functioning HEIC to JPEG converter. It was solely a production of question, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The api is a container deployed a AWS lambda function. The backend handles the recieved form data from the frontend using multer and processes the image and changes its format as JPEG. 
+
