@@ -9,15 +9,6 @@ I'm a former graphic designer and a Full Stack Engineer with a endless curiosity
 
 Most of my public work on GitHub is personal side projects that I've created both for testing and challenging my skills and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I try to follow best practises, new experiemental features and beautiful designs that look stunning. These are some of my work I've developed recently.
 
-## 🗂️ [A tool to create your resume](https://helpful-sprite-b89435.netlify.app/)
-
-<p align="center">
- <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/af4f3c2a-fced-477c-8172-bd6b5c2930a0" width="600"></a>
-</p>
-
-
-One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool to save myself to prop drilling. I've tried to follow a very clean design and used styled components to style and give some life to the project.
-
 ## 📷 [A HEIC to JPEG Converter](https://helpful-sprite-b89435.netlify.app/)
 
 <p align="center">
@@ -34,3 +25,11 @@ The app is a fully functioning HEIC to JPEG converter. It was solely a productio
 
 I am planning to build the next pet adoption platform in Turkey, with latest technology. This bit is just the starting point to collect emails from users to give them the project updates. The landing frontend is deployed to an S3 bucket and the backend uses Lambda functions and SQS to process user data. The emails are being sent using Sendgrid and the data is being saved to DynamoDB. I am planning this app to be completely serverless and want to use the new cloud tehcnology to save time and resources.
 
+## 🗂️ [A tool to create your resume](https://helpful-sprite-b89435.netlify.app/)
+
+<p align="center">
+ <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/af4f3c2a-fced-477c-8172-bd6b5c2930a0" width="600"></a>
+</p>
+
+
+One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool to save myself to prop drilling. I've tried to follow a very clean design and used styled components to style and give some life to the project.
