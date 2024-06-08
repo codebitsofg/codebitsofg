@@ -9,7 +9,7 @@ I'm a former graphic designer and a Full Stack Engineer with a endless curiosity
 
 Most of my public work on GitHub is personal side projects that I've created both for testing and challenging my skills and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I try to follow best practises, new experiemental features and beautiful designs that look stunning. These are some of my work I've developed recently.
 
-## 🎮 [A tool to create and your resume](https://helpful-sprite-b89435.netlify.app/)
+## 🎮 [A tool to create your resume](https://helpful-sprite-b89435.netlify.app/)
 
 <p align="center">
  <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/af4f3c2a-fced-477c-8172-bd6b5c2930a0" width="600"></a>
