@@ -17,7 +17,7 @@ Most of my public work on GitHub is personal side projects that I've created bot
 
 The app is a fully functioning HEIC to JPEG converter. It was solely a production of question, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The api is a container deployed a AWS lambda function. The backend handles the recieved form data from the frontend using multer and processes the image and changes its format as JPEG. 
 
-## 🐕 [A Serverless landing page for my upcoming app](https://helpful-sprite-b89435.netlify.app/)
+## 🐕 [A Serverless landing page for an upcoming pet adoptation platform](https://helpful-sprite-b89435.netlify.app/)
 
 <p align="center">
  <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/c3fd7f14-95be-4716-82f4-9b67cda8ce3a" width="600"></a>
