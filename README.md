@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About me
 
-I'm a former graphic designer and a full stack developer with a endless curiosity in the driver seat 🚀 I've been developing mobile and web apps since 2021. I've worked in a digital agency and right now working for a SaaS startup.
+I'm a former graphic designer and a Full Stack Engineer with a endless curiosity in the driver seat 🚀 I've been developing mobile and web apps since 2021. I've worked in a digital agency and right now working as a Full Stack Engineer for a SaaS startup.
 
 * I live in Lodz, Poland
 * You can find me from linkedin as [Linkedin](www.linkedin.com/in/gencberat)
