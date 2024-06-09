@@ -1,13 +1,14 @@
 # 👨🏻‍💻 About me
 
-I'm a former graphic designer and a Full Stack Engineer with a endless curiosity in the driver seat 🚀 I've been developing mobile and web apps since 2021. I've worked in a digital agency and right now working as a Full Stack Engineer for a SaaS startup.
+I'm a former Web Designer working as a Full Stack Engineer with a endless curiosity in the driver seat 🚀 I've started software development with bootcamps and certification programmes. And I've been developing mobile and web apps since 2021. I've worked in a digital agency environment and right now working as a Full Stack Engineer for a SaaS startup.
 
 * I live in Lodz, Poland
+* I am especially interested in cloud and cloud infrastructure
 * You can find me in [Linkedin](www.linkedin.com/in/gencberat)
  
 # ✍ Side Projects
 
-Most of my public work on GitHub is personal side projects that I've created both for testing and challenging my skills and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I try to follow best practises, new experiemental features and beautiful designs that look stunning. These are some of my work I've developed recently.
+Most of my public work on GitHub is personal side projects that I've created both for testing and challenging my skills and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I like trying to implement new experiemental features and beautiful designs that look stunning. These are some of my work I've developed recently.
 
 ## 📷 [A HEIC to JPEG Converter](https://helpful-sprite-b89435.netlify.app/)
 
