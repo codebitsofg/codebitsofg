@@ -34,3 +34,12 @@ I am planning to build the next pet adoption platform in Turkey, with latest tec
 
 
 One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool to save myself to prop drilling. I've tried to follow a very clean design and used styled components to style and give some life to the project.
+
+## 🛰️ [Space Factions Simulator](https://helpful-sprite-b89435.netlify.app/)
+
+<p align="center">
+ <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/846bec0d-773e-4197-a481-498c1ed2f0cf" width="600"></a>
+</p>
+
+
+One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool to save myself to prop drilling. I've tried to follow a very clean design and used styled components to style and give some life to the project.
