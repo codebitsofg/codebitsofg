@@ -29,7 +29,7 @@ I am planning to build the next pet adoption platform in Turkey, with latest tec
 ## 🗂️ [A tool to create your resume](https://helpful-sprite-b89435.netlify.app/)
 
 <p align="center">
- <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/af4f3c2a-fced-477c-8172-bd6b5c2930a0" width="600"></a>
+ <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/task-manager/assets/78652120/eeae487e-a756-417d-8b39-ed0e95e17bca" width="600"></a>
 </p>
 
 
