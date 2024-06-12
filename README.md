@@ -49,8 +49,9 @@ One of my many projects where you can actually create your own resume download a
 ## 🗓️ [Task Manager](https://helpful-sprite-b89435.netlify.app/)
 
 <p align="center">
- <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/fd64b885-0e95-4ab1-9f25-a14ecfc7daef" width="600"></a>
+ <a href="https://helpful-sprite-b89435.netlify.app/"><img src="https://github.com/soberbat/soberbat/assets/78652120/e640ff93-4191-4a92-8fd1-3b775a252d7a" width="600"></a>
 </p>
+
 
 
 One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool to save myself to prop drilling. I've tried to follow a very clean design and used styled components to style and give some life to the project.
