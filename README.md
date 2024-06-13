@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About me
 
-I'm a former Web Designer working as a Full Stack Engineer with a endless curiosity in the driver seat 🚀 I've started software development with bootcamps and certification programmes. And I've been loving it since! I've been mostly developing mobile and web apps since 2021. I've worked in a digital agency and right now working as a Full Stack Engineer for a SaaS startup.
+I'm a former Web Designer working as a Full Stack Engineer with a endless curiosity in the driver seat 🚀 I've started software development with bootcamps and certification programmes. And I've been loving it since and been mostly developing mobile and web apps since 2021. I've worked in a digital agency and right now working as a Full Stack Engineer for a SaaS startup.
 
 * I live in Lodz, Poland, recently relocated. 🌈
 * I am especially interested in cloud and cloud infrastructure.
