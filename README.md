@@ -1,15 +1,15 @@
 # 👨🏻‍💻 About me
 
-I'm a former Web Designer working as a Full Stack Engineer with a endless curiosity in the driver seat 🚀 I've started software development with Frontend and could not spot but to explore other areas like Backend development and Cloud ☁️  And I've been loving it since and been mostly developing mobile and web apps since 2021. I've worked in a digital agency and right now working as a Full Stack Engineer for a SaaS startup.
+I'm a former Web Designer working as a Full Stack Engineer with a endless curiosity in the driver seat. I've started software development with Frontend and could not stop but to explore other areas like Backend development and Cloud ☁️  And I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting in my previous position and right now working as a Full Stack Engineer for a SaaS startup in manufacturing industry.
 
-* I live in Lodz, Poland, recently relocated. 🌈
+* I live in Lodz, Poland, recently relocated from Turkey. 🌈
 * I am especially interested in cloud and cloud infrastructure.
 * You can find me in [Linkedin](www.linkedin.com/in/gencberat)
-* Checkout my [Portfolio](https://www.beratgenc.live/) for more projects 
+* And check my [Portfolio](https://www.beratgenc.live/) out for more projects 
  
 # ✍ Side Projects
 
-Most of my public work on GitHub is personal side projects that I've created both for testing and challenging my skills and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I like trying to implement new experiemental features and beautiful designs that look stunning. These are some of my work I've developed recently.
+Most of my public work on GitHub is personal side projects that I've created both for testing and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Please check my portfolio out for more of them. But here are some;
 
 ## 📷 [A HEIC to JPEG Converter](https://heictojpeg.beratgenc.live/)
 
