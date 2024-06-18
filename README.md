@@ -16,15 +16,15 @@ Most of my public work on GitHub is personal side projects that I've created bot
  <a href="https://heictojpeg.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/ca4fa81c-58d6-43c4-9293-b8bdfc0b5a55" width="600"></a>
 </p>
 
-The app is a fully functioning HEIC to JPEG converter. It was solely a production of question, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The api is a container deployed a AWS lambda function. The backend handles the recieved form data from the frontend using multer and processes the image and changes its format as JPEG. 
+The app is a fully functioning HEIC to JPEG converter. It was solely a production of question, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The api is a container deployed a Google Cloud Run Services. The backend handles the recieved form data from the frontend using multer and processes the image, changes its format as JPEG send sends it back to the client. 
 
-## 🐕 [A Serverless landing page for an upcoming pet adoptation platform](https://helpful-sprite-b89435.netlify.app/)
+## 🐕 [A Serverless landing page for an upcoming pet adoptation platform](http://infrastructurestack-nextjssitebucketbd1a5941-isspgruxxmoy.s3-website.eu-central-1.amazonaws.com/)
 
 <p align="center">
  <a href="http://infrastructurestack-nextjssitebucketbd1a5941-isspgruxxmoy.s3-website.eu-central-1.amazonaws.com/"><img src="https://github.com/soberbat/soberbat/assets/78652120/c3fd7f14-95be-4716-82f4-9b67cda8ce3a" width="600"></a>
 </p>
 
-I am planning to build the next pet adoption platform in Turkey, with latest technology. This bit is just the starting point to collect emails from users to give them the project updates. The landing frontend is deployed to an S3 bucket and the backend uses Lambda functions and SQS to process user data. The emails are being sent using Sendgrid and the data is being saved to DynamoDB. I am planning this app to be completely serverless and want to use the new cloud tehcnology to save time and resources.
+I am planning to build the next pet adoption platform in Turkey, with latest technology. This bit is just the starting point to collect emails from users to give them the project updates. The landing frontend is deployed to an S3 bucket and the backend uses Lambda functions and SQS to process user data. The emails are being sent using Sendgrid and the data is being saved to DynamoDB. I am planning this app to be completely on AWS cloud with other cool services they offer.
 
 ## 🗂️ [A tool to create your resume](https://resumemaker.beratgenc.live/)
 
@@ -32,7 +32,7 @@ I am planning to build the next pet adoption platform in Turkey, with latest tec
  <a href="https://resumemaker.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/2f646784-eed0-4e6d-8566-1892bff44659" width="600"></a>
 </p>
 
-One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool to save myself to prop drilling. I've tried to follow a very clean design and used styled components to style and give some life to the project.
+One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool. I've tried to follow a very clean design and used styled components to style and give some life to the project.
 
 ## 🛰️ [Space Factions Simulator](https://unniversecam.beratgenc.live/)
 
@@ -49,4 +49,4 @@ Unniversecam is a constantly changing solar system with its factions, stars and 
  <a href="https://application.taskermanager.site/"><img src="https://github.com/soberbat/soberbat/assets/78652120/e640ff93-4191-4a92-8fd1-3b775a252d7a" width="600"></a>
 </p>
 
-Tasker Manager is an app where you can track your tasks with your team. Collaborate and be productive at what you do. It is written with Nest.js and deployed to Google Cloud.
+Tasker Manager is an app where you can track your tasks with your team. Collaborate and be productive at what you do. It is written with Nest.js and deployed to Google Cloud. Fully automated with Github Actions.
