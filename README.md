@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About me
 
-I'm a former Web Designer working as a Full Stack Engineer with a endless curiosity in the driver seat. I've started software development with Frontend and could not stop but to explore other areas like Backend development and Cloud ☁️  And I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting on my previous position and right now working as a Full Stack Engineer for a SaaS startup in manufacturing industry.
+I'm a former Web Designer working as a Full Stack Engineer with a endless curiosity in the driver seat. I've started software development with Frontend and could not stop but to explore other areas like Backend development and Cloud ☁️   And I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting on my previous position and right now working as a Full Stack Engineer for a SaaS startup in manufacturing industry.
 
 * I live in Lodz, Poland, recently relocated from Turkey. 🛩️
 * I am especially interested in cloud and cloud infrastructure.
