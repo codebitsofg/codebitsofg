@@ -5,7 +5,7 @@ I'm a former Web Designer working as a Full Stack Engineer with a endless curios
 * I live in Lodz, Poland, recently relocated from Turkey. 🛩️
 * I am especially interested in cloud and cloud infrastructure.
 * You can find me in [Linkedin](www.linkedin.com/in/gencberat)
-* And check my [Portfolio](https://www.beratgenc.live/) out for more projects 
+* And have a look at my [Portfolio](https://www.beratgenc.live/) for more projects 
  
 # ✍ Side Projects
 
