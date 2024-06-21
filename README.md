@@ -17,7 +17,7 @@ Most of my public work on GitHub is personal side projects that I've created bot
  <a href="https://heictojpeg.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/ca4fa81c-58d6-43c4-9293-b8bdfc0b5a55" width="600"></a>
 </p>
 
-The app is a fully functioning HEIC to JPEG converter. It was solely a production of question, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The api is a container deployed a Google Cloud Run Services. The backend handles the recieved form data from the frontend using multer and processes the image, changes its format as JPEG send sends it back to the client. 
+The app is a fully functioning HEIC to JPEG converter. It was solely a production of question, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The API is a container deployed as a Google Cloud Run Services. The backend handles the recieved form data from the frontend using multer and processes the image, changes its format as JPEG send sends it back to the client. 
 
 ## 🐕 [A Serverless landing page for an upcoming pet adoptation platform](http://infrastructurestack-nextjssitebucketbd1a5941-isspgruxxmoy.s3-website.eu-central-1.amazonaws.com/)
 
