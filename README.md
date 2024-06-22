@@ -7,7 +7,7 @@ I'm a former Web Designer working as a Full Stack Engineer with an endless curio
 * You can find me in [Linkedin](www.linkedin.com/in/gencberat)
 * And have a look at my [Portfolio](https://www.beratgenc.live/) for more projects 
  
-# ✍ Side Projects
+# 😎 Side Projects
 
 Most of my public work on GitHub is personal side projects that I've created both for testing and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Please check my portfolio out for more of them. But here are some;
 
