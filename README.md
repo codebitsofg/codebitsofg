@@ -11,6 +11,16 @@ I'm a former Web Designer working as a Full Stack Engineer with an endless curio
 
 Most of my public work on GitHub is personal side projects that I've created both for testing and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Please check my portfolio out for more of them. But here are some;
 
+## 🗓️ [Task Manager](https://application.taskermanager.site/)
+
+
+<p align="center">
+ <a href="https://application.taskermanager.site/"><img src="https://github.com/soberbat/task-manager-frontend/assets/78652120/c53e0fde-b607-4c8d-a68d-738303f38699" width="600"></a>
+</p>
+
+Tasker Manager is an app where you can track your tasks with your team. Collaborate and be productive at what you do. It is written with Nest.js and deployed to Google Cloud. Fully automated with Github Actions. Both backend and frontend are deployed as docker containers and the Cloud SQL instance is provisioned to store user data. Prisma used as the ORM and styling is done with Tailwindcss.
+
+
 ## 📷 [A HEIC to JPEG Converter](https://heictojpeg.beratgenc.live/)
 
 <p align="center">
@@ -43,11 +53,3 @@ One of my many projects where you can actually create your own resume download a
 
 Unniversecam is a constantly changing solar system with its factions, stars and planets. The UI is execution of a complex design featuring implementations of common web app elements such as select menus, carousel slides, and footers. The application is a good example of modular UI and how it can be matched with immersive web experiences.
 
-## 🗓️ [Task Manager](https://application.taskermanager.site/)
-
-
-<p align="center">
- <a href="https://application.taskermanager.site/"><img src="https://github.com/soberbat/soberbat/assets/78652120/e640ff93-4191-4a92-8fd1-3b775a252d7a" width="600"></a>
-</p>
-
-Tasker Manager is an app where you can track your tasks with your team. Collaborate and be productive at what you do. It is written with Nest.js and deployed to Google Cloud. Fully automated with Github Actions.
