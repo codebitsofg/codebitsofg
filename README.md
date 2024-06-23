@@ -43,7 +43,7 @@ I am planning to build the next pet adoption platform in Turkey, with latest tec
  <a href="https://resumemaker.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/2f646784-eed0-4e6d-8566-1892bff44659" width="600"></a>
 </p>
 
-My first very project where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool. I've tried to follow a very clean design and used styled components to style and give some life to the project.
+My very first project where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool. I've tried to follow a very clean design and used styled components to style and give some life to the project.
 
 ## 🛰️ [Space Factions Simulator](https://unniversecam.beratgenc.live/)
 
