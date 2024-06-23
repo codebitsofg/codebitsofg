@@ -37,13 +37,13 @@ The app is a fully functioning HEIC to JPEG converter. It was solely a productio
 
 I am planning to build the next pet adoption platform in Turkey, with latest technology. This bit is just the starting point to collect emails from users to give them the project updates. The landing frontend is deployed to an S3 bucket and the backend uses Lambda functions and SQS to process user data. The emails are being sent using Sendgrid and the data is being saved to DynamoDB. I am planning this app to be completely on AWS cloud with other cool services they offer.
 
-## 🗂️ [A tool to create your resume](https://resumemaker.beratgenc.live/)
+## 🗂️ [R Resume](https://resumemaker.beratgenc.live/)
 
 <p align="center">
  <a href="https://resumemaker.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/2f646784-eed0-4e6d-8566-1892bff44659" width="600"></a>
 </p>
 
-One of my many projects where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool. I've tried to follow a very clean design and used styled components to style and give some life to the project.
+My first very project where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool. I've tried to follow a very clean design and used styled components to style and give some life to the project.
 
 ## 🛰️ [Space Factions Simulator](https://unniversecam.beratgenc.live/)
 
