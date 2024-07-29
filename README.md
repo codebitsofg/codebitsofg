@@ -11,13 +11,14 @@ I'm a former Web Designer working as a Full Stack Engineer with an endless curio
 
 Most of my public work on GitHub is personal side projects that I've created both for testing and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Please check my portfolio out for more of them. But here are some;
 
-## 📷 [Shore](https://polite-florentine-f52a60.netlify.app/)
+## 📑 [Shore](https://polite-florentine-f52a60.netlify.app/)
 
 <p align="center">
- <a href="https://heictojpeg.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/ca4fa81c-58d6-43c4-9293-b8bdfc0b5a55" width="600"></a>
+ <a href="https://polite-florentine-f52a60.netlify.app/"><img src="https://github.com/user-attachments/assets/75c23a04-1e49-4d9c-872e-6cd1a1f70931" width="600"></a>
 </p>
 
-A Next.js + Strapi CMS jamstack blog. Skinshore is a static export of a Next.js blog where performance and SEO optimization are of importance. Strapi CMS is used as the Headless CMS choice, and the images are served from an S3 bucket for production use. Dynamic routes are configured taking advantage the latest features of the Next.js App Router. Page-level SEO optimizations are implemented for higher ranking in search results.
+
+A Next.js + Strapi CMS Jamstack blog. Skinshore is a static export of a Next.js blog where performance and SEO optimization are of importance. Strapi CMS is used as the Headless CMS choice, and the images are served from an S3 bucket for production use. Dynamic routes are configured taking advantage the latest features of the Next.js App Router. Page-level SEO optimizations are implemented for higher ranking in search results.
 
 ## 🗓️ [Task Manager](https://application.taskermanager.site/)
 
