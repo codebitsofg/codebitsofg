@@ -1,13 +1,13 @@
-# 👨🏻‍💻 About me
+# 🪡 About me
 
-I'm a former Web Designer working as a Full Stack Engineer with an endless curiosity in the driver seat. I've started software development with Frontend and could not stop but to explore other areas like Backend development and Cloud ☁️   And I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting on my previous position and right now working as a Full Stack Engineer for a SaaS startup in manufacturing industry.
+I'm a former Web Designer working as a Full Stack Engineer with an endless curiosity in the driver seat. I've started software development with Frontend and could not stop but to explore other areas like Backend development and Cloud. And I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting on my previous position and right now working as a Full Stack Engineer for a SaaS startup in manufacturing industry.
 
 * I live in Turkey. 🛩️
 * I am especially interested in cloud and cloud infrastructure.
 * You can find me in [Linkedin](www.linkedin.com/in/gencberat)
 * And have a look at my [Portfolio](https://www.beratgenc.live/) for more projects 
  
-# 😎 Side Projects
+# 🛹 Side Projects
 
 Most of my public work on GitHub is personal side projects that I've created both for testing and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Please check my portfolio out for more of them. But here are some;
 
@@ -60,5 +60,5 @@ The app allows you to create a personalized resume to impress in your interviews
  <a href="https://unniversecam.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/846bec0d-773e-4197-a481-498c1ed2f0cf" width="600"></a>
 </p>
 
-Unniversecam is a constantly changing solar system with its factions, stars and planets. The UI is execution of a complex design featuring implementations of common web app elements such as select menus, carousel slides, and footers. The application is a good example of modular UI and how it can be matched with immersive web experiences.
+UnniverseCam is a space faction simulator with planets and starts. The application features a UI managed with React Context API for state management. It brings a complex design to life with elements such as select menus, carousel slides, and footers. A WebGL Typescript class handles logic for the 3D Scene. The codebase is written with modularity in mind. React UI and scene updates each other based on user input. This focus on modularity and synchronization makes the application a great example of how a modular UI can enhance immersive web experiences.
 
