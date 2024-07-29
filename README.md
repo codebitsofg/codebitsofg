@@ -52,7 +52,7 @@ I am planning to build the next pet adoption platform in Turkey, with latest tec
  <a href="https://resumemaker.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/2f646784-eed0-4e6d-8566-1892bff44659" width="600"></a>
 </p>
 
-My very first project where you can actually create your own resume download and apply for your new job. It is built with Next.js and with Redux as state management tool. I've tried to follow a very clean design and used styled components to style and give some life to the project.
+The app allows you to create a personalized resume to impress in your interviews. Frontend application manages complex data using Redux. The store has multiple slices for an enhanced developer experience. It features a minimalistic design that is both smooth and functional. Users can customize their resumes and download them. Reusable components &  React Hooks used throughout the app.
 
 ## 🛰️ [Space Factions Simulator](https://unniversecam.beratgenc.live/)
 
