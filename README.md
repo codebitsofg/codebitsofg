@@ -1,6 +1,6 @@
 # 🪡 About me
 
-I'm a former Web Designer working as a Full Stack Engineer with an endless curiosity in the driver seat. I've started software development with Frontend and could not stop but to explore other areas like Backend development and Cloud. And I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting on my previous position and right now working as a Full Stack Engineer for a SaaS startup in manufacturing industry.
+I'm a former Web Designer working as a self taught Frontend Developer with an endless curiosity in the driver seat. I've started my software development career with Frontend and could not stop but to explore other areas like Backend development and Cloud. I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting on my previous position and worked as a Full Stack Engineer for a SaaS startup in manufacturing industry. 
 
 * I live in Turkey. 🛩️
 * I am especially interested in cloud and cloud infrastructure.
@@ -9,7 +9,7 @@ I'm a former Web Designer working as a Full Stack Engineer with an endless curio
  
 # 🛹 Side Projects
 
-Most of my public work on GitHub is personal side projects that I've created both for testing and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from years of experience. Some projects are frontend and some are cloud and backend focus projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Please check my portfolio out for more of them. But here are some;
+Most of my public work on GitHub is personal side projects that I've created both for practising and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from my working years. Some projects are frontend and some are cloud and backend focused projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Check my portfolio out for more of them. Here are some;
 
 ## 📑 [Shore](https://polite-florentine-f52a60.netlify.app/)
 
