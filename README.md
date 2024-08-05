@@ -11,10 +11,10 @@ I'm a former Web Designer working as a self taught Frontend Developer. I've star
 
 Most of my public work on GitHub is personal side projects that I've created both for practising and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from my working years. Some projects are frontend and some are cloud and backend focused projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Check my portfolio out for more of them. Here are some;
 
-## 📑 [Shore](https://polite-florentine-f52a60.netlify.app/)
+## 📑 [Shore](http://skknshore.com/)
 
 <p align="center">
- <a href="https://polite-florentine-f52a60.netlify.app/"><img src="https://github.com/user-attachments/assets/75c23a04-1e49-4d9c-872e-6cd1a1f70931" width="600"></a>
+ <a href="http://skknshore.com/"><img src="https://github.com/user-attachments/assets/75c23a04-1e49-4d9c-872e-6cd1a1f70931" width="600"></a>
 </p>
 
 
