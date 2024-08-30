@@ -13,8 +13,9 @@ Most of my public work on GitHub is personal side projects that I've created bot
 
 ## 📑 [Shore](http://skknshore.com/)
 
+
 <p align="center">
- <a href="http://skknshore.com/"><img src="https://github.com/user-attachments/assets/75c23a04-1e49-4d9c-872e-6cd1a1f70931" width="600"></a>
+ <a href="http://skknshore.com/"><img src="https://github.com/user-attachments/assets/5eb2af01-d64d-4ac6-8925-3519f0d47a70" width="600"></a>
 </p>
 
 
