@@ -1,4 +1,4 @@
-# 🪡 About me
+# About me
 
 I'm a former designer working as a Frontend Developer. I've started my software development career with Frontend and could not stop but to explore other areas like Backend development and Cloud. I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting on my previous position and worked as a Full Stack Engineer for a SaaS startup in manufacturing industry. 
 
