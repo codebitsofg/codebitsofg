@@ -1,6 +1,6 @@
 # About me
 
-I'm a former designer working as a Frontend Developer. I've started my software development career with Frontend and could not stop but to explore other areas like Backend development and Cloud. I've been loving it since and been mostly developing mobile and web apps starting from 2021. I've worked in a digital agency setting on my previous position and worked as a Full Stack Engineer for a SaaS startup in manufacturing industry. 
+I'm a former designer working as a Frontend Developer.
 
 * I live in Turkey. 🛩️
 * I am especially interested in cloud and cloud infrastructure.
@@ -8,7 +8,7 @@ I'm a former designer working as a Frontend Developer. I've started my software 
  
 # 🛹 Side Projects
 
-Most of my public work on GitHub is personal side projects that I've created both for practising and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from my working years. Some projects are frontend and some are cloud and backend focused projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Check my portfolio out for more of them. Here are some;
+Here are some projects that are frontend, cloud and backend focused. I like implementing new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Check my portfolio out for more of them. 
 
 ## 📑 [Rutin Hero Blog](https://blog.rutinhero.com/yazilar)
 
