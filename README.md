@@ -18,7 +18,18 @@ Most of my public work on GitHub is personal side projects that I've created bot
 </p>
 
 
-A Next.js + Strapi CMS Jamstack blog. Skinshore is a static export of a Next.js blog where performance and SEO optimization are of importance. Strapi CMS is used as the Headless CMS choice, and the images are served from an S3 bucket for production use. Dynamic routes are configured taking advantage the latest features of the Next.js App Router. Page-level SEO optimizations are implemented for higher ranking in search results.
+A Next.js + Strapi CMS Jamstack blog. Rutin Hero is a static export of a Next.js blog where performance and SEO optimization are of importance. Strapi CMS is used as the Headless CMS choice, and the images are served from an S3 bucket. Dynamic routes are configured by taking advantage the latest features of the Next.js App Router. Page-level SEO optimizations are implemented for higher ranking in search results.
+
+## 📑 [Rutin Hero](https://blog.rutinhero.com/yazilar)
+
+
+<p align="center">
+ <a href="https://blog.rutinhero.com/yazilar"><img src="https://github.com/user-attachments/assets/117a89bb-2acf-41c8-9eca-784f3d7a5652" width="600"></a>
+</p>
+
+
+A multi-page web application where brands or individuals can create task based loyalty campaings for their brands or stores. It is still in progress but the user facing parts for now are the introductory pages and a sample product page which are written using Next.js, Tailwindcss and Shadcn. Recharts has been used for the data visualization. I will be implementing Auth.js (NextAuth) for the authentication. The backend will be written using Nest.js.
+
 
 ## 🗓️ [Task Manager](https://application.taskermanager.site/)
 
@@ -36,7 +47,7 @@ Tasker Manager is an app where you can track your tasks with your team. Collabor
  <a href="https://heictojpeg.beratgenc.live/"><img src="https://github.com/user-attachments/assets/bb1d0a64-4c20-4448-ba0a-42aa511bd291" width="600"></a>
 </p>
 
-The app is a fully functioning HEIC to JPEG converter. It was solely a production of question, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The API is a container deployed as a Google Cloud Run Services. The backend handles the recieved form data from the frontend using multer and processes the image, changes its format as JPEG send sends it back to the client. 
+The app is a fully functioning HEIC to JPEG converter. It was solely a production of curiosity, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The API is a container deployed as a Google Cloud Run Services. The backend handles the recieved form data from the frontend using multer and processes the image, changes its format as JPEG send sends it back to the client. 
 
 ## 🐕 [A Serverless landing page for an upcoming pet adoptation platform](http://infrastructurestack-nextjssitebucketbd1a5941-isspgruxxmoy.s3-website.eu-central-1.amazonaws.com/)
 
@@ -44,7 +55,7 @@ The app is a fully functioning HEIC to JPEG converter. It was solely a productio
  <a href="http://infrastructurestack-nextjssitebucketbd1a5941-isspgruxxmoy.s3-website.eu-central-1.amazonaws.com/"><img src="https://github.com/user-attachments/assets/7bba6428-8932-4c56-beb9-cc612a64949f" width="600"></a>
 </p>
 
-I am planning to build the next pet adoption platform in Turkey, with latest technology. This bit is just the starting point to collect emails from users to give them the project updates. The landing frontend is deployed to an S3 bucket and the backend uses Lambda functions and SQS to process user data. The emails are being sent using Sendgrid and the data is being saved to DynamoDB. I am planning this app to be completely on AWS cloud with other cool services they offer.
+A responsive Next.js landing page that is deployed as a static export to AWS S3. It collects the user mails through an AWS Lambda function, talks to another through SQS, stores the data in DynamoDB and finally sends an email using Brevo. Tailwindcss is being used to style the landing page. The API along with the landing page is deployed using CDK. Repo created using NX. All in all it showcases a landing page coming alive with AWS services. Make sure to check your inboxes to see the mail if you have more than one.
 
 ## 🗂️ [R Resume](https://resumemaker.beratgenc.live/)
 
