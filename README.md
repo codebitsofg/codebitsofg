@@ -33,7 +33,7 @@ Tasker Manager is an app where you can track your tasks with your team. Collabor
 ## 📷 [A HEIC to JPEG Converter](https://heictojpeg.beratgenc.live/)
 
 <p align="center">
- <a href="https://heictojpeg.beratgenc.live/"><img src="https://github.com/soberbat/soberbat/assets/78652120/ca4fa81c-58d6-43c4-9293-b8bdfc0b5a55" width="600"></a>
+ <a href="https://heictojpeg.beratgenc.live/"><img src="https://github.com/user-attachments/assets/bb1d0a64-4c20-4448-ba0a-42aa511bd291" width="600"></a>
 </p>
 
 The app is a fully functioning HEIC to JPEG converter. It was solely a production of question, can I build my own converter? I've used some other tools for this purpose but creating my own was definitely something. It follows a very clean mono-repo structure with NX. The API is a container deployed as a Google Cloud Run Services. The backend handles the recieved form data from the frontend using multer and processes the image, changes its format as JPEG send sends it back to the client. 
