@@ -5,17 +5,16 @@ I'm a former designer working as a Frontend Developer. I've started my software 
 * I live in Turkey. 🛩️
 * I am especially interested in cloud and cloud infrastructure.
 * You can find me in [Linkedin](www.linkedin.com/in/gencberat)
-* And have a look at my [Portfolio](https://www.beratgenc.live/) for more projects 
  
 # 🛹 Side Projects
 
 Most of my public work on GitHub is personal side projects that I've created both for practising and feeding my soul with cool looking productions and seeing how far I can get with what I gathered from my working years. Some projects are frontend and some are cloud and backend focused projects. I like trying to implement new experiemental features and beautiful designs that look stunning. And these are some of my work I've developed recently. Check my portfolio out for more of them. Here are some;
 
-## 📑 [Shore](http://skknshore.com/)
+## 📑 [Rutin Hero Blog](https://blog.rutinhero.com/yazilar)
 
 
 <p align="center">
- <a href="http://skknshore.com/"><img src="https://github.com/user-attachments/assets/5eb2af01-d64d-4ac6-8925-3519f0d47a70" width="600"></a>
+ <a href="https://blog.rutinhero.com/yazilar"><img src="https://github.com/user-attachments/assets/a5b798ee-ce4a-40e7-8e2f-1312b9ae82b3" width="600"></a>
 </p>
 
 
@@ -42,7 +41,7 @@ The app is a fully functioning HEIC to JPEG converter. It was solely a productio
 ## 🐕 [A Serverless landing page for an upcoming pet adoptation platform](http://infrastructurestack-nextjssitebucketbd1a5941-isspgruxxmoy.s3-website.eu-central-1.amazonaws.com/)
 
 <p align="center">
- <a href="http://infrastructurestack-nextjssitebucketbd1a5941-isspgruxxmoy.s3-website.eu-central-1.amazonaws.com/"><img src="https://github.com/soberbat/soberbat/assets/78652120/c3fd7f14-95be-4716-82f4-9b67cda8ce3a" width="600"></a>
+ <a href="http://infrastructurestack-nextjssitebucketbd1a5941-isspgruxxmoy.s3-website.eu-central-1.amazonaws.com/"><img src="https://github.com/user-attachments/assets/7bba6428-8932-4c56-beb9-cc612a64949f" width="600"></a>
 </p>
 
 I am planning to build the next pet adoption platform in Turkey, with latest technology. This bit is just the starting point to collect emails from users to give them the project updates. The landing frontend is deployed to an S3 bucket and the backend uses Lambda functions and SQS to process user data. The emails are being sent using Sendgrid and the data is being saved to DynamoDB. I am planning this app to be completely on AWS cloud with other cool services they offer.
