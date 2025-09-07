@@ -1,10 +1,6 @@
 # About me
 
-I'm a former designer working as a Frontend Developer.
-
-* I live in Turkey. 🛩️
-* I am especially interested in cloud and cloud infrastructure.
-* You can find me in [Linkedin](www.linkedin.com/in/gencberat)
+I'm a designer & Software Developer.
  
 # 🛹 Side Projects
 
